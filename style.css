@@ -104,5 +104,24 @@
 .huh {
     color: rgb(255, 171, 185)
 }
-
-
+.nami {
+    color: rgb(255, 0, 140);
+    font-size: 40px;
+    font-family: Georgia;
+}
+.ans {
+    color: rgb(247, 65, 143);
+    font-size: 40px;
+    background-color: rgb(255, 255, 255); 
+    border: none;  
+    margin: 50px;
+    text-decoration: none;
+}
+.po {
+    color: rgb(247, 65, 143);
+    font-size: 50px;
+    height: 480px;
+    background-color: rgb(255, 243, 199);
+    border-radius: 15%;
+    margin-top: 15px;
+}
